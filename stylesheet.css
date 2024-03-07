@@ -23,3 +23,8 @@ a:hover{
     margin: 20px;
     padding: 20px;
 }
+
+#image-id{
+    width: 200px;
+    height: 200px;
+}
