@@ -1,11 +1,11 @@
 /* CSS selector for HTML tag */
 body {
-    background-color: lightblue;
+    background-color: darkblue;
 }
 
 /* CSS class */
 .my-class {
-    color: red;
+    color: darkcyan;
     font-size: 20px;
 }
 
@@ -13,4 +13,13 @@ body {
 #my-id {
     text-align: center;
     font-weight: bold;
+}
+
+a:hover{
+    coler : green;
+}
+
+.section {
+    margin: 20px;
+    padding: 20px;
 }
