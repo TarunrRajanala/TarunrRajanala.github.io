@@ -1,0 +1,16 @@
+/* CSS selector for HTML tag */
+body {
+    background-color: lightblue;
+}
+
+/* CSS class */
+.my-class {
+    color: red;
+    font-size: 20px;
+}
+
+/* CSS id */
+#my-id {
+    text-align: center;
+    font-weight: bold;
+}
