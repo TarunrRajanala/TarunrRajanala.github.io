@@ -1,15 +1,12 @@
-/* CSS selector for HTML tag */
 body {
     background-color: wheat;
 }
 
-/* CSS class */
 .my-class {
     color: darkcyan;
     font-size: 20px;
 }
 
-/* CSS id */
 #my-id {
     color:brown;
     text-align: center;
